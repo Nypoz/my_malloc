@@ -1,0 +1,10 @@
+# binarios y objetos
+test_malloc
+*.o
+*.a
+
+# simbolos de depuracion (macOS)
+*.dSYM/
+
+# basura del sistema
+.DS_Store
